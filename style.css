@@ -1,0 +1,47 @@
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#111;
+    color:white;
+    text-align:center;
+}
+
+header{
+    background:#0b8f3a;
+    padding:20px;
+}
+
+h1{
+    margin:0;
+    color:#ffd700;
+}
+
+p{
+    font-size:18px;
+}
+
+button{
+    background:#ffd700;
+    color:black;
+    border:none;
+    padding:12px 20px;
+    border-radius:8px;
+    font-size:16px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:white;
+}
+
+section{
+    padding:20px;
+}
+
+.card{
+    background:#222;
+    margin:15px;
+    padding:15px;
+    border-radius:10px;
+}
+
