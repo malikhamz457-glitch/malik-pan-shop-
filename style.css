@@ -80,4 +80,18 @@ section{
     color:#008000;
     font-weight:bold;
     margin-bottom:15px;
+}.buy-btn{
+    display:inline-block;
+    background:#25D366;
+    color:white;
+    padding:10px 20px;
+    margin-bottom:15px;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.buy-btn:hover{
+    background:#1ea952;
 }
